@@ -8,6 +8,7 @@
 <div style="display: inline_block">
   <br>
   <img align="center" alt="edu-java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img align="center" alt="edu-java" height="35" width="95" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Zabbix_logo.svg/960px-Zabbix_logo.svg.png?20200420123345" />
   <img align="center" alt="edu-java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" alt="edu-java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="edu-java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original-wordmark.svg" />
