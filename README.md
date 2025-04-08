@@ -2,7 +2,7 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoantoniojunior&show_icons=false&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoantoniojunior&layout=compact&theme=dark" />
 </div>
 
 <div style="display: inline_block">
