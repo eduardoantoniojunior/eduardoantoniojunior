@@ -23,5 +23,3 @@ Com 3 anos de experiência prática transformando infraestrutura em código e da
 ### *"Transformando dados complexos em soluções eficientes e inovadoras."*
 ---
 [![](https://visitcount.itsvg.in/api?id=eduardoantoniojunior&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
