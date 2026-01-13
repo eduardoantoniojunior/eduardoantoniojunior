@@ -1,4 +1,4 @@
-# Olá, eu sou o Eduardo Júnior! 👋
+# Olá, mundo! Eu sou o Eduardo Júnior! 👋
 
 ## Cloud DevOps | Data Engineer & AI Developer
 Engenheiro de Dados e DevOps com foco em arquiteturas escaláveis, inteligência artificial e dados.<br>
