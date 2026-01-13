@@ -1,18 +1,42 @@
-## Olá! Eu sou o Eduardo Júnior
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/eduardoantoniojunior115/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/eduardoantoniojunior) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:edu.antoniojunior115@gmail.com) 
+# Olá, eu sou o Eduardo Júnior! 👋
+### Cloud Engineer | DevOps | Data & AI Developer
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=eduardoantoniojunior&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=eduardoantoniojunior&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoantoniojunior&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=eduardoantoniojunior&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Engenheiro de Dados e DevOps com foco em arquiteturas escaláveis e inteligência artificial. Atualmente, curso Análise e Desenvolvimento de Sistemas no IFPR e possuo a certificação **AWS Solutions Architect – Associate**, com 3 anos de experiência prática transformando infraestrutura em código e dados em insights.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=eduardoantoniojunior&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 O que eu faço
+* **Cloud & DevOps:** Especialista em AWS, implementando arquiteturas Serverless, CI/CD e infraestrutura de alta disponibilidade.
+* **Dados & IA:** Experiência no desenvolvimento de Chatbots inteligentes (Bedrock/Lambda) e pipelines de dados com Apache NiFi e AWS Glue.
+* **Monitoramento:** Especialista certificado em Zabbix e Grafana, focado em observabilidade e sustentação de sistemas críticos.
+
+---
+
+### 🛠️ Tech Stack
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Cloud** | AWS (EC2, S3, RDS, Lambda, SQS, Glue, Bedrock) |
+| **DevOps & Monitoramento** | Docker, Zabbix (ZCS), Grafana, Linux (Avançado) |
+| **Dados & IA** | Apache NiFi, SQL (MySQL, Oracle, PL/SQL), AWS Bedrock |
+| **Linguagens** | Python, Go, Java, C |
+
+---
+
+### 📜 Certificações
+* **AWS Certified Solutions Architect – Associate** ☁️
+* **Zabbix 6.0 Certified Specialist (ZCS)** 📊
+
+---
+
+### 📈 Estatísticas do GitHub
+![Cards do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Conecte-se comigo
+* **LinkedIn:** [Seu Link Aqui]
+* **E-mail:** [Seu E-mail Aqui]
+
+"Transformando complexidade técnica em soluções eficientes e inovadoras."
