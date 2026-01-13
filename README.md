@@ -6,8 +6,8 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas no IFPR.<br>
 Com 3 anos de experiência prática transformando infraestrutura em código e dados em insights.
 
 ## 🚀 O que eu faço:
-**Cloud & DevOps:** Especialista em AWS, implementando arquiteturas Serverless, CI/CD e infraestrutura de alta disponibilidade.
-**Dados & IA:** Experiência no desenvolvimento de Chatbots inteligentes (Bedrock/Lambda) e pipelines de dados com Apache NiFi e AWS Glue.
+**Cloud & DevOps:** Especialista em AWS, implementando arquiteturas Serverless, CI/CD e infraestrutura de alta disponibilidade.<br>
+**Dados & IA:** Experiência no desenvolvimento de Chatbots inteligentes (Bedrock/Lambda) e pipelines de dados com Apache NiFi e AWS Glue.<br>
 **Monitoramento:** Especialista certificado em Zabbix e Grafana, focado em observabilidade e sustentação de sistemas críticos.
 
 # 📜 Certificações:
